@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:dynbuttonLab"
         mc:Ignorable="d"
-        Title="Dynamic Buttons Generator" Height="450" Width="800">
+        Title="Dynamic Buttons Generator 1.9.2" Height="450" Width="800">
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
